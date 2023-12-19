@@ -1,0 +1,17 @@
+
+body{
+    background-image: url(bg.jpeg);
+    background-position:center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+header{
+    line-height: 45px;
+    font-size: 30px;
+}
+a{
+    line-height: 500px;
+    font-size: 30px;
+    margin-right: 50px;
+}
